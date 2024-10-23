@@ -41,8 +41,9 @@ Here are some of the projects that I currently spent my time working on.
 
 ### Previously Used Technologies
 
-<img src="assets/tech/logos--react.svg" height="48" >
 <img src="assets/tech/logos--php.svg" height="48" >
+<img src="assets/tech/logos--react.svg" height="48" >
 <img src="assets/tech/logos--nodejs.svg" height="48" >
+<img src="assets/tech/logos--flutter.svg" height="48" >
 
 </div>
