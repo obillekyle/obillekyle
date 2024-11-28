@@ -46,4 +46,9 @@ Here are some of the projects that I currently spent my time working on.
 <img src="assets/tech/logos--nodejs.svg" height="48" >
 <img src="assets/tech/logos--flutter.svg" height="48" >
 
+### Other
+
 </div>
+
+> [!NOTE]
+> I might be less active these days as I try keep up with my acads.
